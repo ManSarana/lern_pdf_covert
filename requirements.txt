@@ -2,3 +2,4 @@ fastapi
 uvicorn
 python-multipart
 pypdfium2
+Pillow
